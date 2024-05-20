@@ -1,4 +1,4 @@
-## Functions
+## About
 
 With this simple python code, you can adjust your Discord Rich Presence.
 
