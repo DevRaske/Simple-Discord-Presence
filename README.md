@@ -1,6 +1,6 @@
-## About
+## What is it about?
 
-With this simple python code, you can adjust your Discord Rich Presence.
+Just a simple python code, that can adjust your Discord Rich Presence.
 
 ## How to create Application?
 Make sure you go to the **[Discord Developer Portal](https://discord.dev)** and create new Application.
