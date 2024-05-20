@@ -1,5 +1,4 @@
 import discord
-import turtle
 from discord.ext import commands
 import random
 from discord import Permissions
