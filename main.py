@@ -58,27 +58,6 @@ def mainlogo():
     print("")
     print("")
 
-def kate():
-    print((Fore.LIGHTCYAN_EX + "                                               ******       ******"))
-    print((Fore.LIGHTCYAN_EX + "                                             **********   **********"))
-    print((Fore.LIGHTCYAN_EX + "                                           ************* *************"))
-    print((Fore.LIGHTCYAN_EX +"                                          *****************************"))
-    print((Fore.LIGHTCYAN_EX + "                                          *****************************"))
-    print((Fore.LIGHTCYAN_EX + "                                          *****************************"))
-    print((Fore.LIGHTCYAN_EX + "                                           ***************************"))    
-    print((Fore.LIGHTCYAN_EX + "                                             ***********************"))   
-    print((Fore.LIGHTCYAN_EX + "                                               *******************"))   
-    print((Fore.LIGHTCYAN_EX + "                                                 ***************"))   
-    print((Fore.LIGHTCYAN_EX + "                                                   ***********"))        
-    print((Fore.LIGHTCYAN_EX + "                                                     *******"))      
-    print((Fore.LIGHTCYAN_EX + "                                                       ***"))      
-    print((Fore.LIGHTCYAN_EX + "                                                        *"))                                        
-    print("")
-    print("")
-
-mainlogo()
-
-
 client_id = ()
 RPC = Presence(client_id)
 
@@ -260,11 +239,6 @@ def main():
             os.system('cls')
             cya()
             time.sleep(3)
-            exit()
-        elif choice == 'kate':
-            os.system('cls')
-            kate()
-            time.sleep(5)
             exit()
         else:
             os.system('cls')
