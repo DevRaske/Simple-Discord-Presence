@@ -6,8 +6,8 @@ from colorama import Fore, Style, Back
 import asyncio
 import colorama
 import pypresence
-import re, http.client, ctypes, sys, threading, json, random, sys, re, threading, time, os, datetime
 from pypresence import Presence
+import re, http.client, ctypes, sys, threading, json, random, time, os, datetime
 
 def center_text(text):
     columns = os.get_terminal_size().columns
