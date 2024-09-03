@@ -12,7 +12,7 @@ To get **Client ID** go to **OAuth2** section and copy it there.
 For uploading image go to **Rich Presence** section and upload it there and name it how you like it.
 
 ## Dependencies
-All dependencies are in **dependencies.bat** just open it to start downloading them.
+All dependencies are in **dependencies.bat** just open it to download them.
 
 ```
 For downloading manually:
